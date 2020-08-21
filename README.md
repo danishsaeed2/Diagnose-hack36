@@ -12,8 +12,6 @@ What could be invaluable is that you have an approximate diagnosis of what's wro
 To build a web application that could accept photographs through the webcam and predict the following:
 * Crooked or diseased teeth that might require dental care
 
-The last two may require care from a surgeon or dermatologist, and especially in areas where access may be limited, it may be a good idea to have a primary diagnosis. 
-
 ## Tech used: ##
 We used tensorflow for image classification using the inception v3 architecture, that allowed us to perform Deep Learning on datasets that we got from using a selenium web driver based crawler that extracted images from Google Images. 
 
